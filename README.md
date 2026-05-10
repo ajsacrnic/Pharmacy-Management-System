@@ -1,2 +1,2 @@
 # Pharmacy-Management-System
-A MySQL-based database that efficiently manages the core operations of a pharmacy
+The Pharmacy Management System is an extensive database design that efficiently manages the core operations of a pharmacy. The design focuses on the arrangement of important data about medicines, suppliers, buyers, and transactions in order to maintain it safely. In addition, the system assists the routine functioning of a pharmacy through the tracking of medicine inventory, customers' orders, and updating information about suppliers. Through the well-arranged tables and their connections, the system ensures that all information is consistent and increases efficiency in the daily activities of the pharmacy. 
